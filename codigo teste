@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feira do Carrasco</title>
+</head>
+<body>
+    <header>
+        <blockquote cite="https://www.aereo.jor.br/2024/11/07/a-vitoria-dos-f-39e-gripen-sobre-os-f-15c-eagle-no-exercicio-cruzex-consideracoes-sobre-a-tecnologia-embarcada/#:~:text=O%20CRUZEX%20é%20um%20exercício,a%20interoperabilidade%20entre%20os%20participantes.">O combate aéreo moderno está passando por uma profunda transformação, impulsionada pela evolução tecnológica e por novas táticas operacionais que redefinem as características essenciais de uma aeronave de combate. Se no passado a velocidade, a capacidade de manobra e a potência de fogo eram os principais atributos de um caça, hoje os paradigmas mudaram. A consciência situacional e a furtividade são os novos pilares do combate aéreo, redefinindo a forma como as aeronaves operam, interagem e enfrentam ameaças.</blockquote>          
+        <q>O Exercício Cruzeiro do Sul (CRUZEX) é um exercício multinacional e operacional organizado pela Força Aérea Brasileira (FAB) desde 2002</q><br>
+
+
+        <mark> O CRUZEX é um exercício internacional que reúne forças aéreas de diversas nações para treinar operações conjuntas e aprimorar a interoperabilidade entre os participantes </mark> <br>
+        <h1 style="background-color: rgb(228, 25, 25);">cor de fundo vermelha</h1>
+
+        <strong>O ETERNO APRENDIZ</strong>
+
+        <ul>
+            <li><b> Combate aéreo moderno </li>
+            <li><strong> CRUZEX </li>
+            <li><i> Exercício Cruzeiro do Sul</li>
+            <li><em> Evolução tecnológica</li>
+            <li><small> Exercício internacional</li>
+            <li><del>  Aeronave de combate </li>
+            <li><ins> Furtividade </li>
+            <li><sub> Consciência situacional </li>
+            <li><sup> Força Aérea Brasileira (FAB)</li>
+        </ul>
+
+
+
+        </header>
+    <footer>todos os direitos reservados</footer>
+</body>
+</html>
